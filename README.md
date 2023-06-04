@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Elisa</h1>
-<h3 align="center">"Data Science student with skills in analytics, machine learning, and visualization, passionate about applying data science for meaningful insights</h3>
+<h3 align="center">Data Science student with skills in analytics, machine learning, and visualization, passionate about applying data science for meaningful insights</h3>
 
 - 🔭 I’m currently working on **Forecasts for Tourism destinations**
 
