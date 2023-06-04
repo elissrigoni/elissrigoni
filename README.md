@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB and Mongolite for R**
 
-- 🤝 I’m currently collaborate with [HBenchmark](https://www.linkedin.com/company/hbenchmark/)
+- 🤝 I’m currently collaborating with [HBenchmark](https://www.linkedin.com/company/hbenchmark/)
 
 - 💬 Ask me about **anything**
 
